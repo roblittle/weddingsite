@@ -81,9 +81,8 @@ function Map() {
           }
       );
     });
-  }
-
+  };
   return <div ref={mapRef} className="map" id="map" />;
-}
+};
 
 export default Map;

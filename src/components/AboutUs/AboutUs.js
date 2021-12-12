@@ -8,9 +8,9 @@ const AboutUs = () => {
       <div id="parent">
             <Card.Title><h1>{t("about_us.title")}</h1></Card.Title>
             <br/>
-             <div class="container">
-                <div class="row">
-                  <div class="col">
+             <div className="container">
+                <div className="row">
+                  <div className="col">
                     <div className="padding">
                       {t("about_us.main2")}
                       <br/>
@@ -28,7 +28,7 @@ const AboutUs = () => {
                       <br/>
                     </div>
                   </div>
-                  <div class="col-md-auto">
+                  <div className="col-md-auto">
                     <img
                         src='img/rm_engage.JPG'
                         alt="r&m"
@@ -36,22 +36,22 @@ const AboutUs = () => {
                       />
                   </div>
                 </div>
-                <div class="row">
-                  <div class="col-md-auto">
+                <div className="row">
+                  <div className="col-md-auto">
                     <img
                         src='img/rm_date.jpeg'
                         alt="r&m"
                         className="dress-img-big"
                       />
                   </div>
-                  <div class="col">
+                  <div className="col">
                     <img
                         src='img/rm_laugh.jpeg'
                         alt="r&m"
                         className="dress-img-big"
                       />
                   </div>
-                  <div class="col-md-auto">
+                  <div className="col-md-auto">
                     <img
                         src='img/rm_vegas.JPG'
                         alt="r&m"

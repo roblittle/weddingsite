@@ -6,6 +6,7 @@ import {
 }from 'react-bootstrap';
 import "./Navbar.css";
 import LanguageSelect from "../../LanguageSelector";
+// import LanguageSwitcher from "../LanguageSwitcher/LanguageSwitcher";
 import { useTranslation } from 'react-i18next';
 
 const Navibar = () => {
