@@ -1,13 +1,11 @@
 import React from "react";
 import { useTranslation } from 'react-i18next';
 import { Card } from 'react-bootstrap';
-import CardContent from '@mui/material/CardContent';
 
 const AboutUs = () => {
   const { t } = useTranslation();
     return (
       <div id="parent">
-
             <Card.Title><h1>{t("about_us.title")}</h1></Card.Title>
             <br/>
              <div class="container">
@@ -62,7 +60,6 @@ const AboutUs = () => {
                   </div>
                 </div>
               </div>
-          
       </div>   
     );
   };

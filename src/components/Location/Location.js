@@ -6,9 +6,9 @@ const Location = () => {
   const { t } = useTranslation();
     return (
       <div className="bg-text">
-             <div class="container">
-                <div class="row align-items-start">
-                  <div class="col">
+             <div className="container">
+                <div className="row align-items-start">
+                  <div className="col">
                     <div className="padding">
                       {t("location.main")}<br/>
                       {t("location.main2")}<br/><br/>
@@ -16,7 +16,7 @@ const Location = () => {
                     </div>
                   </div>
                  <br/>
-                  <div class="col-md-auto location-blocks">
+                  <div className="col-md-auto location-blocks">
                     <br/>
                      <h3 className="gold"><b>Pozos Colorados</b></h3>
                      <br/>
@@ -37,8 +37,8 @@ const Location = () => {
                       <br/>
                   </div>
                 </div>
-                <div class="row">
-                  <div class="col-md-auto location-blocks">
+                <div className="row">
+                  <div className="col-md-auto location-blocks">
                     <h3 className="gold"><b>Bello Horizonte</b></h3><br/>
                     <div className="">
                       {t("location.belo.main")}
@@ -63,7 +63,7 @@ const Location = () => {
 
                        <br/>
                   </div>
-                  <div class="col-md-auto location-blocks">
+                  <div className="col-md-auto location-blocks">
                      <h3 className="gold"><b>El Rodadero</b></h3><br/>
                       <div className="">{t("location.elro.main")}</div>
                       <br/>
@@ -82,7 +82,7 @@ const Location = () => {
                       <br/>
                   </div>
                   
-                  <div class="col location-blocks">
+                  <div className="col location-blocks">
                   <h3 className="gold"><b>Santa Marta {t("location.sant.santa")}</b></h3><br/>
                     <div className="">{t("location.sant.main")}</div>
                     <br/>

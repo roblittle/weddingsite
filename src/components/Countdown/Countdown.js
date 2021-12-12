@@ -12,7 +12,7 @@ const Countdown = () => {
         <div id="main">
           <br/>
           <br/>
-        <div className="countdowntitle">
+        <div className="countdowntitle blink_me">
           {days} {t("countdown.days")}<br/>
         </div>
           <span id="until" className="bigger"> {t("countdown.until")} </span>
