@@ -8,11 +8,12 @@ import ListItem from "@mui/material/ListItem";
 
 const languageMap = {
   en: { label: "English", dir: "ltr", active: true },
-  es: { label: "Espanol", dir: "ltr", active: false }
+  es: { label: "Español", dir: "ltr", active: false }
 };
 
 const LanguageSelect = () => {
   const selected = localStorage.getItem("i18nextLng").substr(0,2) || "en";
+
 
   const [menuAnchor, setMenuAnchor] = React.useState(null);
   React.useEffect(() => {

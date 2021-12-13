@@ -20,12 +20,13 @@
     "ceremony": "Ceremonia",
     "reception": "Recepción",
     "main": "Por fin ha llegado el momento de invitar cordialmente a nuestra familia y amigos a nuestra ceremonia de matrimonio y celebración de amor. Realmente deseamos que ambos lados de nuestra familia y amigos puedan unirse y compartir este momento especial con nosotros. Sabemos que el viaje puede ser lejano, pero creemos que unas buenas vacaciones son necesarias y merecidas por todos después de estos tiempos tan impredecibles que hemos vivido. Tomaremos todas las precauciones necesarias durante esta pandemia y con mucha esperanza, esta celebración del amor podrá unirnos a todos después de haber estado separados durante tanto tiempo.",
-    "covid":"Porque los amamos y nos preocupamos por cada uno de ustedes, Tu salud y seguridad son nuestra prioridad.  Con mucho respeto pedimos que nuestros invitados estén completamente vacunados hasta que la pandemia haya sido resuelta"
+    "covid":"Porque los amamos y nos preocupamos por cada uno de ustedes, tu salud y seguridad son nuestra prioridad.  Con mucho respeto pedimos que nuestros invitados estén completamente vacunados hasta que la pandemia haya sido resuelta"
   },
   "countdown": {
     "days": "días",
     "until": "restantes",
-    "announce": "para el matrimonio de María del Mar y Robert Edward Burton",
+    "get_married": " María del Mar y Robert Edward Burton",
+    "announce":"para el matrimonio de",
     "date": "Diciembre 28 del 2022"
   },
   "rsvp": {
@@ -76,22 +77,38 @@
     "main": "Hay cuatro zonas de la ciudad en las que te recomendamos que te alojes.",
     "main2":"Cada una de ellas ofrece algo diferente según lo que más te interese. Explicaremos más a continuación.",
     "belo": {
-      "main": "Es el área más cercana al aeropuerto y al lugar de la boda. Es el más alejado del centro de Santa Marta (aproximadamente 25 minutos en automóvil) y también es la parte más tranquila de la ciudad en lo que respecta a la vida nocturna y el entretenimiento. Tiene las mejores playas y los mejores hoteles. También hay muchas opciones de alquiler en esta área, aquí es donde se hospedarán el novio y la novia.",
-      "hotel_labels": "Hoteles recomendados:",
+      "main": "Es el área más cercana al aeropuerto y al lugar de la boda. Es el más alejado del centro de Santa Marta (aproximadamente 25 minutos en automóvil) y también es la parte más tranquila de la ciudad en lo que respecta a la vida nocturna y el entretenimiento. Tiene las mejores playas y los mejores hoteles. También hay muchas opciones de alquiler en esta área, ",
+      "bride_groom":"aquí es donde se hospedarán el novio y la novia.",
+      "hotel_labels": "Recomendaciones de alojamiento:",
       "zuana": "Zuana Beach Resort",
       "irotama": "Hotel Irotama",
       "marriott": "Santa Marta Marriot Resort",
-      "sintana": "Sintana Resort"
+      "sintana": "Sintana Resort",
+      "one":"Apartamento exclusivo",
+      "two":"Suite de lujo frente al mar, hermoso horizonte",
+      "three":"Bonito apartamento en la playa"
     },
     "pozo": {
-      "main": "Similar a Bello Horizonte, Pozos Colorados está solo cinco minutos más hacia el centro de Santa Marta. Hay hoteles y muchos alquileres de Airbnb disponibles en esta área."
+      "main": "Similar a Bello Horizonte, Pozos Colorados está solo cinco minutos más hacia el centro de Santa Marta. Hay hoteles y muchos alquileres de Airbnb disponibles en esta área.",
+      "one":"Fabulous sleeps four",
+      "two":"Bunsichari resort apartment",
+      "three":"Coloured wells splendid apt con vista al mar"
     },
     "elro": {
-      "main": "Está a unos 15 minutos en carro del lugar de la boda y a 20 minutos del aeropuerto. Hay muchas opciones de hoteles económicos en esta zona de la ciudad, así como alquileres. Es la zona más turística de Santa Marta para los Colombianos. La playa en sí no es tan bonita debido a la contaminación del turismo, pero hay muchas lanchas en los que puedes subirte para ir a playas hermosas muy cerca. Esta zona de la ciudad tiene mucha vida nocturna y entretenimiento, además de restaurantes y bares."
+      "main": "Está a unos 15 minutos en carro del lugar de la boda y a 20 minutos del aeropuerto. Hay muchas opciones de hoteles económicos en esta zona de la ciudad, así como alquileres. Es la zona más turística de Santa Marta para los Colombianos. La playa en sí no es tan bonita debido a la contaminación del turismo, pero hay muchas lanchas en los que puedes subirte para ir a playas hermosas muy cerca. Esta zona de la ciudad tiene mucha vida nocturna y entretenimiento, además de restaurantes y bares.",
+      "one":"Apartamento vista al mar y bahía con parqueadero",
+      "two":"Estupendo departamento en el corazón de El Rodadero",
+      "three":"Espectacular vista al rodadero",
+      "four":"Espectacular apartaestudio",
+      "five":"Apartamento frente al mar"
     },
     "sant": {
       "main": "Es la zona más alejada del aeropuerto y del lugar de celebración de la boda, pero sigue siendo muy bonita. Tiene una arquitectura colonial, restaurantes, bares y discotecas. Aunque tiene una bahía, no hay mucha gente que nade aquí debido a la contaminación.",
-      "santa": "(Centro de Santa Marta)"
+      "santa": "(Centro de Santa Marta)",
+      "one":"Impresionante casa colonial con piscina en el centro",
+      "two":"Moderno cálido apartamento en el centro histórico",
+      "three":"Apartamento en pleno centro historico",
+      "four":"Apartasuite grand marina/servicios hotel marriott"
     }
   }
 }

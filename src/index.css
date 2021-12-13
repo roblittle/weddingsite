@@ -52,7 +52,7 @@ a {
 
 .countdowntitle{
   text-align: center;
-  font-size: 3.8em;
+  font-size: 4.4em;
   color: #CDA14A;
 }
 
@@ -233,13 +233,26 @@ li {
 } */
 
 .bigger{
-  font-size: 2.0em;
+  /* text-align: center; */
+  font-size: 3.2em;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link{
   padding-right: 1.9rem;
   padding-left: 1.9rem;
   text-align: center;
+}
+
+.blink_me {
+  animation: blinker 1s linear infinite;
+  color: transparent;
+  text-shadow: 0 0 5px rgba(205,161,74,0.5);
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
 }
 
 #map{

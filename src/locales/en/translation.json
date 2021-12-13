@@ -25,7 +25,8 @@
   "countdown":{
     "days":"days",
     "until":"until",
-    "announce":"María del Mar and Robert Edward Burton get married",
+    "announce":"María del Mar and Robert Edward Burton ",
+    "get_married":"get married",
     "date":"December 28th, 2022"
   },
   "rsvp":{
@@ -47,7 +48,7 @@
     "q1":"Where is Santa Marta?",
     "a1":"Santa Marta is located in the northeast region of Colombia and its surrounded by the Caribbean sea.",
     "q2":"How to get to Santa Marta?",
-    "a2":"Our suggestion is to travel from your city/country of origin to Bogota, capital city of Colombia. Once there, you can fly round trip to Santa Marta through one of the local airlines. Santa Marta is less than a 90-minute flight from Bogota. Take into consideration that depending on your arrival time to Bogota, you may need to spend the night there and travel to Santa Marta the next day (or whenever you wish to, if you would like to spend some time in Bogota prior to December 28). Our most recommended airline is <0>Avianca</0> , but all other local airlines are highly recommended as well.  A website such as <1>Despegar</1> provides you with all options available. Please note that every year, the week of December 24th-January 1st is always the busiest, most popular week in Santa Marta. Therefore, availability and prices reflect its popularity. An estimate.",
+    "a2":"Our suggestion is to travel from your city/country of origin to Bogota, capital city of Colombia. Once there, you can fly round trip to Santa Marta through one of the local airlines. Santa Marta is less than a 90-minute flight from Bogota. Take into consideration that depending on your arrival time to Bogota, you may need to spend the night there and travel to Santa Marta the next day (or whenever you wish to, if you would like to spend some time in Bogota prior to December 28). Our most recommended airline is <0>Avianca</0> , but all other local airlines are highly recommended as well.  A website such as <1>Despegar</1> provides you with all options available. Please note that every year, the week of December 24th-January 1st is always the busiest, most popular week in Santa Marta. Therefore, availability and prices reflect its popularity.",
     "q3":"How much does it cost?",
     "a3":"You can fly Bogota-Santa Marta round trip anywhere between $90-$200/person roundtrip, depending of airline, luggage, and how far in advance flights are booked.",
     "q4":"What’s the weather like?",
@@ -75,22 +76,38 @@
     "main":"There are four areas of town we recommend for you to stay in.",
     "main2":"Each one of them offers something different, depending on what you’re most interest. We will explain more below.",
     "belo":{
-      "main":"It’s the closest area to the airport and wedding venue. It’s the farthest from downtown Santa Marta (approx. 25-minute car ride) and it is also the quietest part of town when it comes to nightlife and entertainment. It does have the nicer beaches and best hotels. There are also plenty of rental options in this area as well – this is where the groom and bride will be staying.",
-      "hotel_labels":"Recommended hotels:",
+      "main":"It’s the closest area to the airport and wedding venue. It’s the farthest from downtown Santa Marta (approx. 25-minute car ride) and it is also the quietest part of town when it comes to nightlife and entertainment. It does have the nicer beaches and best hotels. There are also plenty of rental options in this area as well – ",
+      "bride_groom":"this is where the groom and bride will be staying.",
+      "hotel_labels":"Recommended accommodation:",
       "zuana":"Zuana Beach Resort",
       "irotama":"Irotama Hotel",
       "marriott":"Santa Marta Marriot Resort",
-      "sintana":"Sintana Resort"
+      "sintana":"Sintana Resort",
+      "one":"Exclusive apartment",
+      "two":"Luxurious waterfront suite, Beautiful skyline",
+      "three":"Nice apartment on the beach"
     },
     "pozo":{
-      "main":"Like Bello Horizonte, Pozos Colorados is only five more minutes towards downtown Santa Marta. There are hotels and lots of Airbnb rentals available in this area."
+      "main":"Like Bello Horizonte, Pozos Colorados is only five more minutes towards downtown Santa Marta. There are hotels and lots of Airbnb rentals available in this area.",
+      "one":"Fabulous sleeps four",
+      "two":"Bunsichari resort apartment",
+      "three":"Colored Wells splendid apt with an ocean view"
     },
     "elro":{
-      "main":"It’s about 15-minute car ride to the wedding venue and 20 minutes from the airport. There are a lot of economic hotel options in this area of town, as well as rentals. It’s the most touristic area of Santa Marta for Colombians. The beach itself is not as pretty due to pollution from tourism, but there are lots of boats that you can hop on to go to really nice beaches. This area of town has a lot of nightlife and entertainment, as well as restaurants and bars."
+      "main":"It’s about 15-minute car ride to the wedding venue and 20 minutes from the airport. There are a lot of economic hotel options in this area of town, as well as rentals. It’s the most touristic area of Santa Marta for Colombians. The beach itself is not as pretty due to pollution from tourism, but there are lots of boats that you can hop on to go to really nice beaches. This area of town has a lot of nightlife and entertainment, as well as restaurants and bars.",
+      "one":"Ocean view Apartment with parking",
+      "two":"Great apartment in the heart of El Rodadero",
+      "three":"Spectacular view of the rodadero",
+      "four":"Spectacular studio appartment",
+      "five":"Beachfront apartment"
     },
     "sant":{
       "main":"It’s the farthest area from the airport and the wedding venue, but still very attractive, nonetheless. It has a lot of historic architecture, restaurants, bars, and night clubs. Although there is a bay area, not many people swim here due to pollution from ocean traffic.",
-      "santa":"(downtown Santa Marta)"
+      "santa":"(downtown Santa Marta)",
+      "one":"Stunning colonial house w/pool at the center",
+      "two":"Modern warm apartment in the historic center",
+      "three":"Apartment in the historic center",
+      "four":"Apartasuite grand marina / services marriott hotel"
     }
   }
 }
