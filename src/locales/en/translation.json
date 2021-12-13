@@ -25,7 +25,8 @@
   "countdown":{
     "days":"days",
     "until":"until",
-    "announce":"María del Mar and Robert Edward Burton get married",
+    "announce":"María del Mar and Robert Edward Burton ",
+    "get_married":"get married",
     "date":"December 28th, 2022"
   },
   "rsvp":{

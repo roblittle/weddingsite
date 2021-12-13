@@ -25,7 +25,8 @@
   "countdown": {
     "days": "días",
     "until": "restantes",
-    "announce": "para el matrimonio de María del Mar y Robert Edward Burton",
+    "get_married": " María del Mar y Robert Edward Burton",
+    "announce":"para el matrimonio de",
     "date": "Diciembre 28 del 2022"
   },
   "rsvp": {
