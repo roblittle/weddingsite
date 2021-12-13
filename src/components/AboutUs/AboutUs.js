@@ -6,11 +6,11 @@ const AboutUs = () => {
   const { t } = useTranslation();
     return (
       <div id="parent">
-            <Card.Title><h1>{t("about_us.title")}</h1></Card.Title>
             <br/>
              <div className="container">
                 <div className="row">
                   <div className="col">
+                  <Card.Title><h1>{t("about_us.title")}</h1></Card.Title>
                     <div className="padding">
                       {t("about_us.main2")}
                       <br/>
