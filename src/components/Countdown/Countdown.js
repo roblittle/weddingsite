@@ -18,7 +18,7 @@ const Countdown = () => {
           <span id="ido" className="bigger" >{t("countdown.announce")}</span><br/>
           <span id="ido" className="bigger" >{t("countdown.get_married")}</span><br/>
           <br/>
-          <span id="ido">{t("countdown.date")}</span>
+          <span id="ido">{t("countdown.date")} | Santa Marta, Colombia</span>
       </div>
     );
 }
