@@ -17,12 +17,12 @@ const Navibar = () => {
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
               <Nav className="main-nav-links m-auto">
-                <Nav.Link href="/">{t("menu_items.home")}</Nav.Link>
-                <Nav.Link href="/rsvp">{t("menu_items.rsvp")}</Nav.Link>
+                {/* <Nav.Link href="/">{t("menu_items.home")}</Nav.Link> */}
+                {/* <Nav.Link href="/rsvp">{t("menu_items.rsvp")}</Nav.Link>
                 <Nav.Link href="/dress">{t("menu_items.dress_code")}</Nav.Link>
                 <Nav.Link href="/details">{t("menu_items.details")}</Nav.Link>
                 <Nav.Link href="/faq">{t("menu_items.faq")}</Nav.Link>
-                <Nav.Link href="/location">{t("menu_items.where_to_stay")}</Nav.Link>
+                <Nav.Link href="/location">{t("menu_items.where_to_stay")}</Nav.Link> */}
               </Nav>
               <Nav>
                 <Nav.Link eventKey={2} href="">

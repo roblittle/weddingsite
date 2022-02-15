@@ -1,6 +1,6 @@
 import React from 'react'
-import Countdown from '../Countdown/Countdown';
-import AboutUs from '../AboutUs/AboutUs';
+// import Countdown from '../Countdown/Countdown';
+// import AboutUs from '../AboutUs/AboutUs';
 import { useTranslation } from 'react-i18next';
 
 const Home = () => {
@@ -13,23 +13,29 @@ const Home = () => {
           src="img/Pets_White_long.png"
           className="imgheader"
         />
-        <Countdown/>
+        {/* <Countdown/> */}
         <br/>
-        {t("home.ceremony")}<br/>
+  
+        {/* {t("home.ceremony")}<br/>
         04:00pm<br/>
         Mamancana<br/><br/>
         {t("home.reception")}<br/>
         06:00pm<br/>
         Mamancana<br/>
         <br/><br/>
-        {t("home.main")}
+        {t("home.main")} */}
         <br/><br/>
         <br/>
-        <div className="gold">{t("home.covid")}</div>
+        {/* <div className="gold">{t("home.covid")}</div>
         <br/>
-        <br/>
+        <br/> */}
         <hr/>
-        <AboutUs/>              
+        {/* <AboutUs/>               */}
+        <img
+          alt=""
+          src={t("home.update_notice")}
+          className="cancelimgheader"
+        />
       </div>
     </div>
   );

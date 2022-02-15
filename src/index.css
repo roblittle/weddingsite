@@ -61,6 +61,11 @@ a {
   width: 50%;
 }
 
+.cancelimgheader{
+  text-align: center;
+ width: 75%;
+}
+
 .dress-img {
   height: auto;
   max-height: 300px;
